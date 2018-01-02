@@ -4,7 +4,7 @@ A project based learning activity for people who are getting started with Git an
 
 You can play the game at: 
 
-ttps://github.com/nilfdev
+https://evgeniyguliaev.github.io/GITGame/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
